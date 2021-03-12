@@ -1,0 +1,147 @@
+TOTAL FILES CHECK :: 18
+
+
+Statistics :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+CNF in bmc-5.cnf :: SATISFIABLE
+### Time 4.387148412
+### Restarts: 0
+### Learned Clauses: 53
+### Decisions: 701
+### Implications: 25656
+
+Statistics :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+CNF in unsat2.cnf :: UNSATISFIABLE
+### Time 0.028048612000000084
+### Restarts: 0
+### Learned Clauses: 0
+### Decisions: 0
+### Implications: 3
+
+
+Statistics :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+CNF in bj08amba2g4f3.k10.cnf :: SATISFIABLE
+### Time 70.60119552200001
+### Restarts: 1
+### Learned Clauses: 108
+### Decisions: 1500
+### Implications: 1319028
+
+Statistics :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+CNF in bmc-8.cnf :: SATISFIABLE
+### Time 211.382308428
+### Restarts: 8
+### Learned Clauses: 1042
+### Decisions: 9921
+### Implications: 5349569
+
+Statistics :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+CNF in bmc-7.cnf :: SATISFIABLE
+### Time 4.342417592000004
+### Restarts: 0
+### Learned Clauses: 24
+### Decisions: 632
+### Implications: 23698
+
+Statistics :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+CNF in bmc-1.cnf :: SATISFIABLE
+### Time 15.420589402000019
+### Restarts: 2
+### Learned Clauses: 278
+### Decisions: 7642
+### Implications: 208696
+
+Statistics :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+CNF in unsat1.cnf :: UNSATISFIABLE
+### Time 0.050419384999997874
+### Restarts: 0
+### Learned Clauses: 3
+### Decisions: 3
+### Implications: 10
+
+Statistics :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+CNF in bmc-10.cnf :: SATISFIABLE
+### Time 758.0261613149999
+### Restarts: 35
+### Learned Clauses: 5043
+### Decisions: 103536
+### Implications: 16471643
+
+Statistics :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+CNF in bmc-6.cnf :: SATISFIABLE
+### Time 70.77260601400008
+### Restarts: 5
+### Learned Clauses: 599
+### Decisions: 7226### Implications: 615658
+
+Statistics :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+CNF in bmc-9.cnf :: SATISFIABLE
+### Time 346.47063440299985
+### Restarts: 10
+### Learned Clauses: 1279
+### Decisions: 51226
+### Implications: 8454033
+
+Statistics :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+CNF in unsat.cnf :: UNSATISFIABLE
+### Time 0.13779532000012296
+### Restarts: 0
+### Learned Clauses: 1
+### Decisions: 1
+### Implications: 4
+
+Statistics :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+CNF in bmc-4.cnf :: SATISFIABLE
+### Time 27.964543150999816
+### Restarts: 5
+### Learned Clauses: 690
+### Decisions: 11121
+### Implications: 795552
+
+Statistics :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+CNF in unsat3.cnf :: UNSATISFIABLE
+### Time 0.06459733599990614
+### Restarts: 0
+### Learned Clauses: 15
+### Decisions: 15
+### Implications: 121
+
+Statistics :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+CNF in bmc-3.cnf :: SATISFIABLE
+### Time 10.443785150999929
+### Restarts: 1
+### Learned Clauses: 180
+### Decisions: 150
+9### Implications: 237366
+
+Statistics :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+CNF in bmc-11.cnf :: SATISFIABLE
+### Time 55.86411692700017
+### Restarts: 1
+### Learned Clauses: 163
+### Decisions: 7841
+### Implications: 1234985
+
+Statistics :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+CNF in bmc-2.cnf :: SATISFIABLE
+### Time 1.8469517109999742
+### Restarts: 0
+### Learned Clauses: 41
+### Decisions: 391
+### Implications: 15323
+
+Statistics :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+CNF in bmc-12.cnf :: SATISFIABLE
+### Time 59.89319976899992
+### Restarts: 1
+### Learned Clauses: 178
+### Decisions: 3921
+### Implications: 1042650
+
+Statistics :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+CNF in bmc-13.cnf :: SATISFIABLE
+### Time 13.165206373000046
+### Restarts: 2
+### Learned Clauses: 246
+### Decisions: 1896
+### Implications: 173595
+
